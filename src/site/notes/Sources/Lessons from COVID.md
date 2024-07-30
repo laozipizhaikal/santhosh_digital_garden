@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sources/lessons-from-covid/"}
 ---
 
+# Lessons from COVID
+
 Prof. [[Gagandeep Kang\|Gagandeep Kang]] 
 
 [[Notes/Central Drugs Standard Control Organization\|Central Drugs Standard Control Organization]] only provides approval. They are not involved in decisions on policy use. [[Notes/National Technical Advisory Group on Immunization\|National Technical Advisory Group on Immunization]] advices Ministry of health on use of vaccines. Decision is taken by Ministry of Health
@@ -12,13 +14,11 @@ need - functions
 networking 
 surveillance 
 clinical 
-conveyiing to public communication communicate uncertainity 
+conveyiing to public communication communicate uncertainty 
 
 travel restrictions - useful for pathogents that are sympromatic - a symptomatic not use - incupation perios. 
 
 can help delay spread 
 
 When to use booster? when vaccine has stopped working - data is need for that 
-
-
 
