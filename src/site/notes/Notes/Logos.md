@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/logos/"}
+{"dg-publish":true,"permalink":"/Notes/Logos/"}
 ---
 
 Logos, or the appeal to logic, means to appeal to the audiences’ sense of reason or logic. Logos can also be thought of as the text of the argument. 

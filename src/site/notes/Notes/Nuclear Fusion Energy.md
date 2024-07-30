@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nuclear-fusion-energy/"}
+{"dg-publish":true,"permalink":"/Notes/Nuclear Fusion Energy/"}
 ---
 
 low carbon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/upanishad/"}
+{"dg-publish":true,"permalink":"/Notes/Upanishad/"}
 ---
 
 

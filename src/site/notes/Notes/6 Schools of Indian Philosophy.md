@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/6-schools-of-indian-philosophy/"}
+{"dg-publish":true,"permalink":"/Notes/6 Schools of Indian Philosophy/"}
 ---
 
 

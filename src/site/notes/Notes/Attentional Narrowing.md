@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/attentional-narrowing/"}
+{"dg-publish":true,"permalink":"/Notes/Attentional Narrowing/"}
 ---
 
 

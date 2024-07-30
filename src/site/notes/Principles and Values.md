@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principles-and-values/"}
+{"dg-publish":true,"permalink":"/Principles and Values/"}
 ---
 
 

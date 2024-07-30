@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mo-c/philosophy/"}
+{"dg-publish":true,"permalink":"/MoC/Philosophy/"}
 ---
 
 

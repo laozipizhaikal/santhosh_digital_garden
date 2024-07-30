@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/the-rhetorical-triangle-ethos-pathos-and-logos/"}
+{"dg-publish":true,"permalink":"/Notes/The Rhetorical Triangle - Ethos, Pathos and Logos/"}
 ---
 
 Aristotle - _On Rhetoric_ - Book

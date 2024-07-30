@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/logical-fallacy/"}
+{"dg-publish":true,"permalink":"/Notes/Logical Fallacy/"}
 ---
 
 Most formal fallacies are errors of logic: the conclusion doesn’t really “follow from” (is not supported by) the premises. Either the premises are untrue or the argument is invalid.

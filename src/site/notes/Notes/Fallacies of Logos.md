@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fallacies-of-logos/"}
+{"dg-publish":true,"permalink":"/Notes/Fallacies of Logos/"}
 ---
 
 

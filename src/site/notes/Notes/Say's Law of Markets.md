@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/say-s-law-of-markets/"}
+{"dg-publish":true,"permalink":"/Notes/Say's Law of Markets/"}
 ---
 
 

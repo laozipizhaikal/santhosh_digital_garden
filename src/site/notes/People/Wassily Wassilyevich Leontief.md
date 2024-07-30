@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/wassily-wassilyevich-leontief/"}
+{"dg-publish":true,"permalink":"/People/Wassily Wassilyevich Leontief/"}
 ---
 
 

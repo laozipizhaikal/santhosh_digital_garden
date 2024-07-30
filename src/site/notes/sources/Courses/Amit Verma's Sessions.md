@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/courses/amit-verma-s-sessions/"}
+{"dg-publish":true,"permalink":"/sources/Courses/Amit Verma's Sessions/"}
 ---
 
 [[sources/Courses/Importance of Clear Writing\|Importance of Clear Writing]]

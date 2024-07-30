@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fallacy/"}
+{"dg-publish":true,"permalink":"/Notes/Fallacy/"}
 ---
 
 Fallacy is the use of invalid or otherwise faulty reasoning or "wrong moves" in the construction of an argument which may appear stronger than it really is if the fallacy is not spotted.

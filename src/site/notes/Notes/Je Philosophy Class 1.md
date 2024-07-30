@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/je-philosophy-class-1/"}
+{"dg-publish":true,"permalink":"/Notes/Je Philosophy Class 1/"}
 ---
 
 

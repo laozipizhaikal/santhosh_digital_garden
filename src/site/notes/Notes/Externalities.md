@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/externalities/"}
+{"dg-publish":true,"permalink":"/Notes/Externalities/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gestalt-principles-of-perception/"}
+{"dg-publish":true,"permalink":"/Notes/Gestalt Principles of Perception/"}
 ---
 
 

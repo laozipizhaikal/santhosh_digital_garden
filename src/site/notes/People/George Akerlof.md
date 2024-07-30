@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/george-akerlof/"}
+{"dg-publish":true,"permalink":"/People/George Akerlof/"}
 ---
 
 # George Akerlof

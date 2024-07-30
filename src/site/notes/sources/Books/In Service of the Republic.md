@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books/in-service-of-the-republic/","title":"In Service of the Republic","tags":["📚Book"]}
+{"dg-publish":true,"permalink":"/sources/Books/In Service of the Republic/","title":"In Service of the Republic","tags":["📚Book"]}
 ---
 
 

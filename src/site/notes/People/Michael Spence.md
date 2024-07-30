@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/michael-spence/"}
+{"dg-publish":true,"permalink":"/People/Michael Spence/"}
 ---
 
 ##### Mentioned Files

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/courses/fundamentals-of-public-policy/","tags":["Course"]}
+{"dg-publish":true,"permalink":"/sources/Courses/Fundamentals of Public Policy/","tags":["Course"]}
 ---
 
 

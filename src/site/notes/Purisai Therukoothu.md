@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/purisai-therukoothu/"}
+{"dg-publish":true,"permalink":"/Purisai Therukoothu/"}
 ---
 
 Kannapa sambandhan – kasi – 4th

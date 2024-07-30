@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/informal-fallacy/"}
+{"dg-publish":true,"permalink":"/Notes/Informal Fallacy/"}
 ---
 
 Informal fallacies take many forms and are widespread in everyday discourse. Very often they involve bringing irrelevant information into an argument or they are based on assumptions that, when examined, prove to be incorrect. Informal fallacies are more dependent on misuse of language and of evidence

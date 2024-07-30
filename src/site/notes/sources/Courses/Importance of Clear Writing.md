@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/courses/importance-of-clear-writing/"}
+{"dg-publish":true,"permalink":"/sources/Courses/Importance of Clear Writing/"}
 ---
 
 > Good prose is like a window pane - #GeorgeOrwel 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/kenneth-arrow/"}
+{"dg-publish":true,"permalink":"/People/Kenneth Arrow/"}
 ---
 
 

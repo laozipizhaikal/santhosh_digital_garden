@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/upavedas/"}
+{"dg-publish":true,"permalink":"/Notes/Upavedas/"}
 ---
 
 

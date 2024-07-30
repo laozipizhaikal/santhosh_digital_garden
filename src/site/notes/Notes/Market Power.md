@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/market-power/"}
+{"dg-publish":true,"permalink":"/Notes/Market Power/"}
 ---
 
 

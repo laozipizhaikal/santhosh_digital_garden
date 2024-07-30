@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/ronald-coase/"}
+{"dg-publish":true,"permalink":"/People/Ronald Coase/"}
 ---
 
 

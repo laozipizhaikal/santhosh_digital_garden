@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/leontief-paradox/"}
+{"dg-publish":true,"permalink":"/Notes/Leontief Paradox/"}
 ---
 
 Leontief's paradox in economics is that a country with a higher capital per worker has a lower capital/labor ratio in exports than in imports.
