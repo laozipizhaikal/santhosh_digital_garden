@@ -17,6 +17,8 @@ Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https
 
 ## Domain Areas
 - [[MoC/Philosophy\|Philosophy]]
+- [[sources/lessons-from-covid\|Lessons from COVID]]
+- [[sources/History of Moral Thought - Kenan Malik.md\\|History of Moral Thought - Kenan Malik]]
 
 ## Sources
 | Source                    | Topic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
