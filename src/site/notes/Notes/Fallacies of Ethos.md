@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Fallacies of Ethos/"}
+{"dg-publish":true,"permalink":"/notes/fallacies-of-ethos/"}
 ---
 
 Fallacies of ethos relate to credibility. These fallacies may unfairly build up the credibility of the author (or his allies) or unfairly attack the credibility of the author’s opponent (or her allies).

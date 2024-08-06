@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Coase Theorem/"}
+{"dg-publish":true,"permalink":"/notes/coase-theorem/"}
 ---
 
 

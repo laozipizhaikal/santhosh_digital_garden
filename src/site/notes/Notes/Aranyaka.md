@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Aranyaka/"}
+{"dg-publish":true,"permalink":"/notes/aranyaka/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Physiocracy/"}
+{"dg-publish":true,"permalink":"/notes/physiocracy/"}
 ---
 
 

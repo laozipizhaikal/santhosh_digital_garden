@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/National Technical Advisory Group on Immunization/"}
+{"dg-publish":true,"permalink":"/notes/national-technical-advisory-group-on-immunization/"}
 ---
 
 

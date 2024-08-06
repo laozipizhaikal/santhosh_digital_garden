@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Non-Excludable/"}
+{"dg-publish":true,"permalink":"/notes/non-excludable/"}
 ---
 
 **Excludability** is defined as the degree to which a good, service or resource can be limited to only paying customers, or conversely, the degree to which a supplier, producer or other managing body (e.g. a government) can prevent "free" consumption of a good.

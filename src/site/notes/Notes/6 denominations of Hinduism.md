@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/6 denominations of Hinduism/"}
+{"dg-publish":true,"permalink":"/notes/6-denominations-of-hinduism/"}
 ---
 
 

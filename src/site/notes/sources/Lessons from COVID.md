@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Lessons from COVID/"}
+{"dg-publish":true,"permalink":"/sources/lessons-from-covid/"}
 ---
 
 

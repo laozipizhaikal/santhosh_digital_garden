@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Tableau économique/"}
+{"dg-publish":true,"permalink":"/notes/tableau-economique/"}
 ---
 
 

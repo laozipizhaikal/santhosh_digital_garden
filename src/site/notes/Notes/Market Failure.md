@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Market Failure/"}
+{"dg-publish":true,"permalink":"/notes/market-failure/"}
 ---
 
 

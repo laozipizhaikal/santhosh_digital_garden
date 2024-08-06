@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Iamb/"}
+{"dg-publish":true,"permalink":"/notes/iamb/"}
 ---
 
 Iamb: An unstressed syllable followed by a stressed syllable

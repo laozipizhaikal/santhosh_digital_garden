@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Nobel Memorial Prize in Economic Sciences/"}
+{"dg-publish":true,"permalink":"/notes/nobel-memorial-prize-in-economic-sciences/"}
 ---
 
 The Nobel Memorial Prize in Economic Sciences, officially the Sveriges Riksbank Prize in Economic Sciences in Memory of [[Alfred Nobel\|Alfred Nobel]] (Swedish: Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne), is an economics award administered by the Nobel Foundation.

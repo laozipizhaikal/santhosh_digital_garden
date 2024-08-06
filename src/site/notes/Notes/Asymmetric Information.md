@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Asymmetric Information/"}
+{"dg-publish":true,"permalink":"/notes/asymmetric-information/"}
 ---
 
 Asymmetric information refers to a state where market players have different levels of information about each other’s valuations of the market. As such, their information is asymmetric, or asymmetrically distributed.

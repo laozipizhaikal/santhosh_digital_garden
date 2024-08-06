@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/How can advocacy bring about policy change/"}
+{"dg-publish":true,"permalink":"/sources/how-can-advocacy-bring-about-policy-change/"}
 ---
 
 

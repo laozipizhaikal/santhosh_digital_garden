@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Philosophizing/"}
+{"dg-publish":true,"permalink":"/notes/philosophizing/"}
 ---
 
 

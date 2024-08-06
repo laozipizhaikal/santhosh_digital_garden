@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Pathos/"}
+{"dg-publish":true,"permalink":"/notes/pathos/"}
 ---
 
 Pathos appeals to the emotions and the sympathetic imagination, as well as to beliefs and values. Pathos can also be thought of as the role of the audience in the argument.

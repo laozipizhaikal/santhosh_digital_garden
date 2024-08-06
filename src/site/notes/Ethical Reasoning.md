@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ethical Reasoning/"}
+{"dg-publish":true,"permalink":"/ethical-reasoning/"}
 ---
 
 When a community does not have shared values and shared interest, even in presence of all relevant information it is not possible to arrive at a common decision. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/Jan Tinbergen/"}
+{"dg-publish":true,"permalink":"/people/jan-tinbergen/"}
 ---
 
 ##### Mentioned Files

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Vaishnavism/"}
+{"dg-publish":true,"permalink":"/notes/vaishnavism/"}
 ---
 
 

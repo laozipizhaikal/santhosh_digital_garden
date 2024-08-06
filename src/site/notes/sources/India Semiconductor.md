@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/India Semiconductor/"}
+{"dg-publish":true,"permalink":"/sources/india-semiconductor/"}
 ---
 
 

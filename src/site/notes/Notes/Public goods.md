@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Public goods/"}
+{"dg-publish":true,"permalink":"/notes/public-goods/"}
 ---
 
 In economics, a public good (also referred to as a social good or collective good) is a good that is both [[Notes/Non-Excludable\|Non-Excludable]] and [[Notes/Non-Rivalrous\|Non-Rivalrous]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Input–Output Model/"}
+{"dg-publish":true,"permalink":"/notes/input-output-model/"}
 ---
 
 

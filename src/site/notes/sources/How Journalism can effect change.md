@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/How Journalism can effect change/"}
+{"dg-publish":true,"permalink":"/sources/how-journalism-can-effect-change/"}
 ---
 
 

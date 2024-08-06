@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Prasthanatrayi/"}
+{"dg-publish":true,"permalink":"/notes/prasthanatrayi/"}
 ---
 
 

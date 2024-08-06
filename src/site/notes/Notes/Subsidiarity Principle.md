@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Subsidiarity Principle/"}
+{"dg-publish":true,"permalink":"/notes/subsidiarity-principle/"}
 ---
 
 

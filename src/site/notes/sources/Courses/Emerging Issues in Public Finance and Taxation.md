@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/Emerging Issues in Public Finance and Taxation/"}
+{"dg-publish":true,"permalink":"/sources/courses/emerging-issues-in-public-finance-and-taxation/"}
 ---
 
 

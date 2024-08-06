@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Non-Rivalrous/"}
+{"dg-publish":true,"permalink":"/notes/non-rivalrous/"}
 ---
 
 In economics, a good is said to be rivalrous or a rival if its consumption by one consumer prevents simultaneous consumption by other consumers, or if consumption by one party reduces the ability of another party to consume it. 

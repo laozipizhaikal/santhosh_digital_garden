@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Domar Debt Sustainability/"}
+{"dg-publish":true,"permalink":"/notes/domar-debt-sustainability/"}
 ---
 
 

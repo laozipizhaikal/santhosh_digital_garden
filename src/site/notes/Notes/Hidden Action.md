@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Hidden Action/"}
+{"dg-publish":true,"permalink":"/notes/hidden-action/"}
 ---
 
 

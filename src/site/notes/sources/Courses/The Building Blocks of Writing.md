@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/The Building Blocks of Writing/"}
+{"dg-publish":true,"permalink":"/sources/courses/the-building-blocks-of-writing/"}
 ---
 
 #### Styles of writing pieces

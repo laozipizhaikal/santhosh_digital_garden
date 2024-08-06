@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/Ethical Reasoning in Public Policy/"}
+{"dg-publish":true,"permalink":"/sources/courses/ethical-reasoning-in-public-policy/"}
 ---
 
 

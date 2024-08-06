@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/Rhythms in writing/"}
+{"dg-publish":true,"permalink":"/sources/courses/rhythms-in-writing/"}
 ---
 
 Sound of words 

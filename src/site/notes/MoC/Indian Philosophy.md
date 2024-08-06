@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MoC/Indian Philosophy/"}
+{"dg-publish":true,"permalink":"/mo-c/indian-philosophy/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Recency Effect/"}
+{"dg-publish":true,"permalink":"/notes/recency-effect/"}
 ---
 
 A memory phenomenon in which the most recently presented facts, impressions, or items are learned or remembered better than material presented earlier. This effect can occur in both formal learning situations and social contexts. - American Psychological Association

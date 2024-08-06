@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Central Drugs Standard Control Organization/"}
+{"dg-publish":true,"permalink":"/notes/central-drugs-standard-control-organization/"}
 ---
 
 

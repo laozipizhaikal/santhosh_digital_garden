@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Brahmanas/"}
+{"dg-publish":true,"permalink":"/notes/brahmanas/"}
 ---
 
 With creation 

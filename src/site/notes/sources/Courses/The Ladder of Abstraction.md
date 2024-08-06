@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/The Ladder of Abstraction/"}
+{"dg-publish":true,"permalink":"/sources/courses/the-ladder-of-abstraction/"}
 ---
 
 From Ganesh

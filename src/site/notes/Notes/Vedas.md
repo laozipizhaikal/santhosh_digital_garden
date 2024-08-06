@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Vedas/"}
+{"dg-publish":true,"permalink":"/notes/vedas/"}
 ---
 
 

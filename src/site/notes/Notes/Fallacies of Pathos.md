@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Fallacies of Pathos/"}
+{"dg-publish":true,"permalink":"/notes/fallacies-of-pathos/"}
 ---
 
 An appropriate appeal to [[Notes/Pathos\|Pathos]] is different than trying to unfairly play upon the audience’s feelings and emotions through fallacious, misleading, or excessively emotional appeals. Such a manipulative use of pathos may alienate the audience or cause them to “tune out”.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/The Sound of Words/"}
+{"dg-publish":true,"permalink":"/notes/the-sound-of-words/"}
 ---
 
 Subconsciously we are reading aloud in our head 

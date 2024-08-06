@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Tingbergen Rule/"}
+{"dg-publish":true,"permalink":"/notes/tingbergen-rule/"}
 ---
 
 

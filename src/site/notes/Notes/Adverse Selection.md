@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Adverse Selection/"}
+{"dg-publish":true,"permalink":"/notes/adverse-selection/"}
 ---
 
 Adverse Selection occurs when the more desirable attributes of a market withdraw due to asymmetric information. This could be better quality products, better quality consumers or better quality sellers. The result is that consumer and producers may not make transactions that are socially beneficial, transactions that would yield positive producer and/or consumer surplus. 

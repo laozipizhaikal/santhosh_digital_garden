@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Figure-Ground Relationship/"}
+{"dg-publish":true,"permalink":"/notes/figure-ground-relationship/"}
 ---
 
 According to this principle, we tend to segment our visual world into figure and ground. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Bias/"}
+{"dg-publish":true,"permalink":"/notes/bias/"}
 ---
 
 

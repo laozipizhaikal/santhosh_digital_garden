@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/30 Essential Ideas you should know about ADHD/"}
+{"dg-publish":true,"permalink":"/sources/30-essential-ideas-you-should-know-about-adhd/"}
 ---
 
 

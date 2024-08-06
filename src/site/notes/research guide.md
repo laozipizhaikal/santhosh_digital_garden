@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research guide/"}
+{"dg-publish":true,"permalink":"/research-guide/"}
 ---
 
 _The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century_, Steven Pinker, 2014, _A book on how to write well_

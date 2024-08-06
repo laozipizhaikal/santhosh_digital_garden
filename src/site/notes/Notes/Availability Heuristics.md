@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Availability Heuristics/"}
+{"dg-publish":true,"permalink":"/notes/availability-heuristics/"}
 ---
 
 

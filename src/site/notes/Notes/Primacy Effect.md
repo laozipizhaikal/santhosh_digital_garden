@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Primacy Effect/"}
+{"dg-publish":true,"permalink":"/notes/primacy-effect/"}
 ---
 
 

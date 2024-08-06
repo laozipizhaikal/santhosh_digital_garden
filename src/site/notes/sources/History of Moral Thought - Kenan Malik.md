@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/History of Moral Thought - Kenan Malik/","tags":["Webinar"]}
+{"dg-publish":true,"permalink":"/sources/history-of-moral-thought-kenan-malik/","tags":["Webinar"]}
 ---
 
 What can the history of Morality tell about nature of morality and about human beings?

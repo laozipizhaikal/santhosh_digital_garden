@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Impossibility Theorem - Kenneth Arrow/"}
+{"dg-publish":true,"permalink":"/notes/impossibility-theorem-kenneth-arrow/"}
 ---
 
 

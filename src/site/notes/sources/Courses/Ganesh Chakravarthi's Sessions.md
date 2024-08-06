@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/Courses/Ganesh Chakravarthi's Sessions/"}
+{"dg-publish":true,"permalink":"/sources/courses/ganesh-chakravarthi-s-sessions/"}
 ---
 
 ###### Perspective
