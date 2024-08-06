@@ -12,8 +12,8 @@ Although not one of the five Nobel Prizes which were established by Alfred Nobel
 | ---------------------------------------------- | -------------------- |
 | [[People/Jan Tinbergen\|Jan Tinbergen]]     | 1969 Economics Nobel |
 | [[People/Ronald Coase\|Ronald Coase]]       | 1991 Economics Nobel |
+| [[People/George Akerlof\|George Akerlof]]   | 2001 Economics Nobel |
 | [[People/Joseph Stiglitz\|Joseph Stiglitz]] | 2001 Economics Nobel |
 | [[People/Michael Spence\|Michael Spence]]   | 2001 Economics Nobel |
-| [[People/George Akerlof\|George Akerlof]]   | 2001 Economics Nobel |
 
 { .block-language-dataview}

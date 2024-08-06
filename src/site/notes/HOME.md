@@ -17,7 +17,7 @@ Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https
 
 ## Domain Areas
 - [[MoC/Philosophy\|Philosophy]]
-- [Lessons from COVID](sources/Lessons%20from%20COVID.md)
+- [[sources/Lessons from COVID\|Lessons from COVID]]
 
 ## Sources
 | Source                    | Topic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
