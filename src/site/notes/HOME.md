@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -30,4 +30,4 @@ Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https
 { .block-language-dataview}
 
 > [!tip] Credit
-> The knowledge management system is built on [Obsidian](https://obsidian/) and the website is hosted on Vercel via Github thanks to the awesome plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) developed by [Ole Eskild Steensen](https://ko-fi.com/oleeskild)
+> The knowledge management system is built on [Obsidian](https://obsidian""/) and the website is hosted on Vercel via Github thanks to the awesome plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) developed by [Ole Eskild Steensen](https://ko-fi.com/oleeskild)

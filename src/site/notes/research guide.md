@@ -39,4 +39,4 @@ To follow / research
 
 [Conferences - SERI](https://seri.network/conferences/)
 
-[GitHub - efemkay/obsidian-modular-css-layout: CSS Layout hack for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
+[GitHub - efemkay/obsidian-modular-css-layout: CSS Layout hack for Obsidian""](https://github.com/efemkay/obsidian-modular-css-layout)
