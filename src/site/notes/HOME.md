@@ -8,10 +8,8 @@
 Hi, 
 Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https://maggieappleton.com/garden-history) It's a curated place for my learnings, thoughts and work in progress. You can learn more about me [here](https://santhoshsaravanan.in/) at my website and follow me in twitter [here](https://twitter.com/santhosh_srvnn).    
 
-```ad-note
-This is still a work in progress
-```
-
+> [!NOTE] 
+> This is still a work in progress
 
 > [!INFO] 
 > This is a sanitised version of my Personal Knowledge Management System. While the knowledge section is fully public, notes from paid courses, private conversations etc. might be hidden from public view. 
@@ -20,11 +18,8 @@ This is still a work in progress
 ## Domain Areas
 - [[MoC/Philosophy\|Philosophy]]
 
-```ad-error
-Table below is created with Dataview Plugin, which is currently not rendering properly online. Please search for the note title or find them in the sidebar.
-
-```
-
+> [!bug]
+> Table below is created with Dataview Plugin, which is currently not rendering properly online. Please search for the note title or find them in the sidebar.
 
 ## Sources
 | Source                                                                               | Topic                                                                                                                                                                                                                    |
