@@ -7,4 +7,4 @@ know HOW we know something - Philosophical Knowledge
 
 # [[Notes/Philosophizing\|Philosophizing]]
 
-[[MoC/Indian Philosophy\|Indian Philosophy]]
+[[sources/Indian Philosophy\|Indian Philosophy]]

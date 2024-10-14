@@ -5,4 +5,4 @@
 
 # Input–Output Model
 
-[[People/Wassily Wassilyevich Leontief\|Wassily Wassilyevich Leontief]]
+[[Notes/Wassily Wassilyevich Leontief\|Wassily Wassilyevich Leontief]]

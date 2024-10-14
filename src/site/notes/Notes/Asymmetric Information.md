@@ -17,9 +17,9 @@ Asymmetric information can be used as a source of power in determining the outco
 - Hidden characteristics are things that one side of a transaction knows about itself that the other side would like to know but does not
 
 # Reference
-"[[../Library/The Market for Lemons_Akerlof_1970.pdf\|The Market for Lemons: Quality Uncertainty and the Market Mechanism]]"[^1] is a 1970 paper by the economist [[People/George Akerlof\|George Akerlof]] which examines how the quality of goods traded in a market can degrade in the presence of information asymmetry between buyers and sellers, leaving only "lemons" behind.
+"[[../Library/The Market for Lemons_Akerlof_1970.pdf\|The Market for Lemons: Quality Uncertainty and the Market Mechanism]]"[^1] is a 1970 paper by the economist [[Notes/George Akerlof\|George Akerlof]] which examines how the quality of goods traded in a market can degrade in the presence of information asymmetry between buyers and sellers, leaving only "lemons" behind.
 
-Akerlof, [[People/Michael Spence\|Michael Spence]] and [[People/Joseph Stiglitz\|Joseph Stiglitz]] jointly received the [[Notes/Nobel Memorial Prize in Economic Sciences\|Nobel Memorial Prize in Economic Sciences]] in 2001 for their research related to asymmetric information.
+Akerlof, [[Notes/Michael Spence\|Michael Spence]] and [[Notes/Joseph Stiglitz\|Joseph Stiglitz]] jointly received the [[Notes/Nobel Memorial Prize in Economic Sciences\|Nobel Memorial Prize in Economic Sciences]] in 2001 for their research related to asymmetric information.
 
 Games of Asymmetric Information arise when one or more agents in a strategic situation possess better information about a random event than the other agents.
 

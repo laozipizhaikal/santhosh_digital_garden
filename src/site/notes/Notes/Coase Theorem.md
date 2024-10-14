@@ -21,6 +21,6 @@ The Coase theorem implies that the market will solve externalities all by itself
 2. negotiating is costly 
 
 ## Reference
-[[../Library/The Problem of Social Cost_Coase_1960.pdf\|The Problem of Social Cost]][^1] by [[People/Ronald Coase\|Ronald Coase]]
+[[../Library/The Problem of Social Cost_Coase_1960.pdf\|The Problem of Social Cost]][^1] by [[Notes/Ronald Coase\|Ronald Coase]]
 
 [^1]: R. H. Coase, "The Problem of Social Cost," The Journal of Law and Economics 3 (October 1960): 1–44, <https://doi.org/10.1086/466560>.
